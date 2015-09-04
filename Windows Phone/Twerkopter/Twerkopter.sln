@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Phone
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Twerkopter", "Twerkopter\Twerkopter\Twerkopter.csproj", "{D1B1A067-0E30-4508-8D60-EB4B4362B52C}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "TwerkopterContent", "Twerkopter\TwerkopterContent\TwerkopterContent.contentproj", "{5EBD8424-E465-4147-9626-498EF6C45DBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Windows Phone = Debug|Windows Phone
+		Release|Windows Phone = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1B1A067-0E30-4508-8D60-EB4B4362B52C}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{D1B1A067-0E30-4508-8D60-EB4B4362B52C}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{D1B1A067-0E30-4508-8D60-EB4B4362B52C}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{D1B1A067-0E30-4508-8D60-EB4B4362B52C}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{D1B1A067-0E30-4508-8D60-EB4B4362B52C}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{D1B1A067-0E30-4508-8D60-EB4B4362B52C}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{5EBD8424-E465-4147-9626-498EF6C45DBC}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{5EBD8424-E465-4147-9626-498EF6C45DBC}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
